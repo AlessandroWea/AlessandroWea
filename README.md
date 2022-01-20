@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlessandroWea
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in Programming and learning foreign languages
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me 
