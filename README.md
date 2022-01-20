@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlessandroWea
-- 👀 I’m interested in Programming (of course :D) and learning foreign languages
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Programming and learning foreign languages
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me 
 
 <!---
